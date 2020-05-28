@@ -1,0 +1,6 @@
+framework module Pods_URLSectionAPI {
+  umbrella header "Pods-URLSectionAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
